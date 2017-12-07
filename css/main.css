@@ -1,0 +1,52 @@
+
+body {
+font-family: 'Source Serif Pro', serif;
+  font-weight: 300;
+  color: #0B0B3B;
+}
+.container{
+    border-bottom: 4px solid  #02b3e4;
+;
+  }
+header h1,
+header h4 {
+	font-weight: 300;
+}
+
+header h1 {
+	font-size: 50px;
+}
+
+header h4 {
+	font-size: 25px;
+}
+.img-thumbnail{
+  text-align: center;
+  width:100%
+}
+
+a.github-link {
+  font-weight: 400;
+  color: #008a45;
+  text-decoration: none;
+}
+
+.logo {
+	width: 100px;
+	margin-top: 15px;
+}
+
+h2 {
+	color:#02b3e4;
+;
+}
+
+.portfolio-img {
+	cursor: pointer;
+}
+.footer{
+  text-align: center;
+  border-top: 1px solid #bbb;
+  padding: 6px 0 20px;
+  color: #bcbbbb;
+      }
